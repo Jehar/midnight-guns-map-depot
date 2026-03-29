@@ -1,4 +1,4 @@
-Midnight Guns Community Map Depot Repo
+**Midnight Guns Community Map Depot Repo**
 
 This repository is a central location for storing community-created map pk3 files for Midnight Guns.
 
