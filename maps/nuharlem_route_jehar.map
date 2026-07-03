@@ -52987,7 +52987,7 @@
 // entity 912
 {
 "classname" "race_route"
-"origin" "-1736 2240 64"
+"origin" "-1736 2256 64"
 "difficulty" "1"
 "author" "jehar"
 "route_name" "Follow The Star"
@@ -53090,7 +53090,7 @@
 // entity 927
 {
 "classname" "race_route"
-"origin" "-1744 2208 48"
+"origin" "-1736 2200 64"
 "difficulty" "1"
 "author" "jehar"
 "route_name" "Face Off"
