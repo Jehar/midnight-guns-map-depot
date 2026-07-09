@@ -1,3 +1,5 @@
+// Game: Midnight Guns
+// Format: Quake3 (legacy)
 // entity 0
 {
 "classname" "worldspawn"
@@ -18257,7 +18259,7 @@
 // entity 240
 {
 "classname" "race_route"
-"origin" "430 -1588 -135.212"
+"origin" "494 -1556 -119.212"
 "angles" "0 90 0"
 "route_author" "jehar"
 "difficulty" "1"
@@ -18431,7 +18433,7 @@
 // entity 266
 {
 "classname" "race_route"
-"origin" "-1112 648 -8"
+"origin" "-1112 648 8"
 "route_author" "jehar"
 "difficulty" "1"
 "route_name" "Pantyhose Hero"
